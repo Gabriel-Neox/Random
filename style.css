@@ -1,0 +1,13 @@
+body{
+    font-family:, Helvetica, sans-serif;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#wrap{
+    width: 7000px;
+    margin: auto; 
+    padding: 10px 30px
+} 
